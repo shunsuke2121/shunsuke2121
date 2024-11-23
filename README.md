@@ -1,4 +1,3 @@
-"# shunsuke2121" 
 # Hello! \:snowman: 冬の季節ですね
 
 ![](https://count.getloli.com/get/@shunsuke2121?theme=rule34)
