@@ -2,7 +2,7 @@
 
 ![](https://count.getloli.com/get/@shunsuke2121?theme=rule34)
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=e00f0p93ox8twar2poi90jz6k&count=5&width=600)
+![](https://spotify-recently-played-readme.vercel.app/api?user=e00f0p93ox8twar2poi90jz6k&count=6&width=600)
 
 [![Kanon](https://cs1.animestore.docomo.ne.jp/anime_kv/img/20/33/0/20330_1_9_8b.png?1551266191000)][1]
 
