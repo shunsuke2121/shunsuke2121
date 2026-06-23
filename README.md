@@ -9,7 +9,7 @@
 [1]:https://www.tbs.co.jp/anime/kanon/
 
 
-[![WHITEALBUM2]([https://cs1.animestore.docomo.ne.jp/anime_kv/img/20/33/0/20330_1_9_8b.png?1551266191000](http://fumimaru-entertainment.com/wp-content/uploads/2020/12/wa2H.jpg)][2]
+[![WHITEALBUM2](http://fumimaru-entertainment.com/wp-content/uploads/2020/12/wa2H.jpg)][2]
 
 [2]:https://leaf.aquaplus.jp/product/wa2cc/
 <!-- # \:cake: Happy Birthday \:smile: -->
